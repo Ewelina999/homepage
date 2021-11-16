@@ -25,4 +25,11 @@ Witam wszystkich w moim repo
 
 https://google.com
 
-![Marzyciel](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fkrakow_pl%2Fstatus%2F1344999315085918212&psig=AOvVaw3_v9QCzDn1IPe15_8y9tQq&ust=1637142291895000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjft7vMnPQCFQAAAAAdAAAAABAJ)
+![Marzyciel](https://desenio.pl/bilder/artiklar/zoom/14061_2.jpg?imgwidth=435&qt=Abstrakcyjna%20twarz)
+
+
+Krótki fragment `kodu`
+```javascript
+let myNumber = 5;
+console.log(myNumber);
+```
