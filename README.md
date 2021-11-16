@@ -28,7 +28,9 @@ https://google.com
 ![Marzyciel](https://desenio.pl/bilder/artiklar/zoom/14061_2.jpg?imgwidth=435&qt=Abstrakcyjna%20twarz)
 
 
-Krótki fragment `kodu`
+Krótki fragment kodu:
+`console.log(5)`
+
 ```javascript
 let myNumber = 5;
 console.log(myNumber);
